@@ -1,7 +1,10 @@
 ## Hi there 👋
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on Django
+### How to reach me: wpolice3120@naver.com
 
-Django
+
+
+
 
 <!--
 **wpolice/wpolice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
